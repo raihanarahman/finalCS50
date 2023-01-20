@@ -1,0 +1,15 @@
+/* Provide some padding to make the navbar look night. */
+html, body {
+  margin-left: 0;
+  padding: 10px;
+}
+
+canvas {
+  display: block;
+}
+
+/* Set some changes in navbar to align with our text in the script, namely changing the font and the padding amount. */
+.navbar {
+  font-family: Arial !important;
+  padding: 10px;
+}
