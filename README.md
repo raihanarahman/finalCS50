@@ -17,7 +17,7 @@ This project is a website that displays information about Conway's Game of Life,
 * In gitignore, vscode.code-workspace is used to route the user to the directory of the project by creating a path to the workspace. 
 
 # Usage
-To use this webpage, first you need to have downloaded all of the files present in finalProject.zip. You also need to have the capabilities to run p5js, HTML, CSS, and Python3 (with the Flask module). To use p5js, install the following extension: 
+To use this webpage, first you need to have the capabilities to run p5js, HTML, CSS, and Python3 (with the Flask module). To use p5js, install the following extension: 
 
     Name: p5.vscode
     Id: samplavigne.p5-vscode
