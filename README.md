@@ -30,6 +30,4 @@ Because of the sizing of graphics on the webpage, you must have a minimum screen
 
 Then, you only need to execute "flask run" in the finalProject directory to create the webpage. 
 
-# Video
-Video: https://youtu.be/cuERK924idI
 
